@@ -1,6 +1,6 @@
 # Stripe Elements examples
 
-[See them in action!](https://stripe.github.io/elements-examples)
+[See them in action!](https://carlitxs.github.io/elements-examples)
 
 This repository contains examples of stylish forms that use Stripe Elements. These examples illustrate how to handle errors in real-time and style focus states, error states, and placeholders.
 
